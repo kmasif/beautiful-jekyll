@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Ignore logging from An Imported Module in Python
-
+tags: [python, logging]
 ---
 
 `logging` is the best module you can use in your code to log all the information you would need, for example, for debugging purpose. I use it extensively with any tool / program I write in Python. 
